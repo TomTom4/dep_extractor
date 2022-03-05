@@ -9,7 +9,8 @@ just git clone this repository.
 # usage
 
 ```bash
-./cli --filepath <targetted_package.json_uri>```
+./cli --filepath <targetted_package.json_uri>
+```
 
 The result will be output in dependencies and devDependencies files.
 
